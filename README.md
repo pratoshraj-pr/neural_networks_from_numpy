@@ -2,7 +2,7 @@
 
 A neural network trained in pure NumPy, from backprop to BatchNorm and AdamW, that matches an identical PyTorch model step for step on MNIST (same initial weights, same batches, epoch train loss equal to ~1e-12, ~98% test accuracy).
 
-This is the code from the blog post *Neural Networks from Scratch in NumPy, Verified Against PyTorch*. Every equation number in the code comments refers to that post.
+This is the code from the blog post ([*Neural Networks from Scratch in NumPy, Verified Against PyTorch*](https://pratoshraj-pr.github.io/posts/nn-from-scratch-numpy/)). Every equation number in the code comments refers to that post.
 
 ## Files
 
