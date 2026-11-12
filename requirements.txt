@@ -1,0 +1,6 @@
+numpy
+# only for mnist_vs_torch.py
+torch
+datasets
+# only for test_gradients.py
+pytest

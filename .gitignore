@@ -1,0 +1,5 @@
+.vscode/
+reference/
+scratchpad/
+__pycache__/
+.pytest_cache/
