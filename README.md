@@ -1,4 +1,4 @@
-# torch_by_numpy
+# neural_networks_from_numpy
 
 A neural network trained in pure NumPy, from backprop to BatchNorm and AdamW, that matches an identical PyTorch model step for step on MNIST (same initial weights, same batches, epoch train loss equal to ~1e-12, ~98% test accuracy).
 
